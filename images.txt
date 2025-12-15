@@ -1,7 +1,15 @@
+#budibase
+budibase/apps
+budibase/worker
+minio/minio
+budibase/proxy
+budibase/couchdb:v3.3.3-sqs-v2.1.1
+redis
+
 
 # RSS
-wantcat/trendradar:latest
-wantcat/trendradar-mcp:latest
+# wantcat/trendradar:latest
+# wantcat/trendradar-mcp:latest
 
 
 # wechat RSS
