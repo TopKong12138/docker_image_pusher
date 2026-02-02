@@ -1,10 +1,12 @@
+ghcr.io/clawd-bot/clawdbot:latest
+
 #budibase
-budibase/apps
-budibase/worker
-minio/minio
-budibase/proxy
-budibase/couchdb:v3.3.3-sqs-v2.1.1
-redis
+#budibase/apps
+#budibase/worker
+#minio/minio
+#budibase/proxy
+#budibase/couchdb:v3.3.3-sqs-v2.1.1
+#redis
 
 
 # RSS
