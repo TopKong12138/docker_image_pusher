@@ -1,4 +1,5 @@
-ghcr.io/clawd-bot/clawdbot:latest
+vllm/vllm:latest
+#ghcr.io/clawd-bot/clawdbot:latest
 
 #budibase
 #budibase/apps
