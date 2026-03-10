@@ -1,4 +1,4 @@
-ghcr.io/vllm-project/vllm:latest
+vllm/vllm-openai:latest
 #ghcr.io/clawd-bot/clawdbot:latest
 
 #budibase
